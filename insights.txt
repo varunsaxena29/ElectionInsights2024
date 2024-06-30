@@ -1,0 +1,208 @@
+1. Parliamentary Constituencies:
+- There are a total of 543 parliamentary constituencies.
+2. Assembly Constituencies by State:
+- Andhra Pradesh: Has 175 assembly constituencies.
+- Odisha: Has 147 assembly constituencies.
+- Bye Elections: 25 assembly constituencies are listed under bye elections.
+**Overall Results for Arunachal Pradesh: **
+- Total Assembly Constituencies: 60
+*Party wise Results: *
+-- Bharatiya Janata Party - BJP
+  - Seats Won: 46, Seat leading: 0, Total Seats: 46 
+  -- Constituency Breakdown: --
+   - Constituency : Lumla(1)
+     - Winning Candidate : TSERING LHAMU, Total Votes: 5040, Margin: 1531, Status: 5/5
+   - Constituency : Mukto(3)
+     - Winning Candidate : PEMA KHANDU (Uncontested), Total Votes: -, Margin: -, Status: -
+   - Constituency : Dirang(4)
+     - Winning Candidate : PHURPA TSERING, Total Votes: 7430, Margin: 1202, Status: 6/6
+-- National People's Party - NPEP
+  - Seats Won: 5, Seat leading: 0, Total Seats: 5 
+  -- Constituency Breakdown: --
+   - Constituency : Tawang(2)
+     - Winning Candidate : NAMGEY TSERING, Total Votes: 4667, Margin: 996, Status: 4/4
+   - Constituency : Liromoba(27)
+     - Winning Candidate : PESI JILEN, Total Votes: 7206, Margin: 1698, Status: 4/4
+   - Constituency : Pasighat(East)(38)
+     - Winning Candidate : TAPI DARANG, Total Votes: 9070, Margin: 321, Status: 5/5
+-- Nationalist Congress Party - NCP
+  - Seats Won: 3, Seat leading: 0, Total Seats: 3 
+  -- Constituency Breakdown: --
+   - Constituency : Yachuli(16)
+     - Winning Candidate : TOKO TATUNG, Total Votes: 8255, Margin: 228, Status: 4/4
+   - Constituency : Lekang(48)
+     - Winning Candidate : LIKHA SONI, Total Votes: 7804, Margin: 654, Status: 4/4
+   - Constituency : Bordumsa-Diyun(49)
+     - Winning Candidate : NIKH KAMIN, Total Votes: 10497, Margin: 1352, Status: 5/5
+-- People's Party of Arunachal - PPA
+  - Seats Won: 2, Seat leading: 0, Total Seats: 2 
+  -- Constituency Breakdown: --
+   - Constituency : Doimukh(14)
+     - Winning Candidate : NABAM VIVEK, Total Votes: 11409, Margin: 2530, Status: 3/3
+   - Constituency : Mebo(39)
+     - Winning Candidate : OKEN TAYENG, Total Votes: 6287, Margin: 1017, Status: 3/3
+-- Indian National Congress - INC
+  - Seats Won: 1, Seat leading: 0, Total Seats: 1 
+  -- Constituency Breakdown: --
+   - Constituency : Bameng(8)
+     - Winning Candidate : KUMAR WAII, Total Votes: 6554, Margin: 635, Status: 4/4
+-- Independent - IND
+  - Seats Won: 3, Seat leading: 0, Total Seats: 3 
+  -- Constituency Breakdown: --
+   - Constituency : Thrizino-Buragaon(6)
+     - Winning Candidate : TENZIN NYIMA GLOW, Total Votes: 5593, Margin: 400, Status: 7/7
+   - Constituency : Nampong(51)
+     - Winning Candidate : LAISAM SIMAI, Total Votes: 3180, Margin: 68, Status: 6/6
+   - Constituency : Khonsa(East)(55)
+     - Winning Candidate : WANGLAM SAWIN, Total Votes: 4544, Margin: 2216, Status: 4/4
+**Overall Results for Sikkim: **
+- Total Assembly Constituencies: 32
+*Party wise Results: *
+-- Sikkim Krantikari Morcha - SKM
+  - Seats Won: 31, Seat leading: 0, Total Seats: 31 
+  -- Constituency Breakdown: --
+   - Constituency : YUKSOM TASHIDING(1)
+     - Winning Candidate : TSHERING THENDUP BHUTIA, Total Votes: 8271, Margin: 4812, Status: 3/3
+   - Constituency : YANGTHANG(2)
+     - Winning Candidate : BHIM HANG LIMBOO, Total Votes: 6621, Margin: 2556, Status: 3/3
+   - Constituency : MANEYBONG-DENTAM(3)
+     - Winning Candidate : SUDESH KUMAR SUBBA, Total Votes: 8553, Margin: 6039, Status: 3/3
+-- Sikkim Democratic Front - SDF
+  - Seats Won: 1, Seat leading: 0, Total Seats: 1 
+  -- Constituency Breakdown: --
+   - Constituency : SHYARI(23)
+     - Winning Candidate : TENZING NORBU LAMTHA, Total Votes: 6633, Margin: 1314, Status: 3/3
+**Overall Results for Andhra Pradesh: **
+- Total Assembly Constituencies: 175
+*Party wise Results: *
+-- Telugu Desam - TDP
+  - Seats Won: 135, Seat leading: 0, Total Seats: 135 
+  -- Constituency Breakdown: --
+   - Constituency : Ichchapuram(1)
+     - Winning Candidate : ASHOK BENDALAM, Total Votes: 110612, Margin: 39783, Status: 22/22
+   - Constituency : Palasa(2)
+     - Winning Candidate : GOUTHU SIREESHA, Total Votes: 101560, Margin: 40350, Status: 21/21
+   - Constituency : Tekkali(3)
+     - Winning Candidate : ATCHANNAIDU KINJARAPU, Total Votes: 107923, Margin: 34435, Status: 24/24
+-- Janasena Party - JnP
+  - Seats Won: 21, Seat leading: 0, Total Seats: 21 
+  -- Constituency Breakdown: --
+   - Constituency : Palakonda (10)
+     - Winning Candidate : JAYAKRISHNA NIMMAKA, Total Votes: 75208, Margin: 13291, Status: 21/21
+   - Constituency : Nellimarla(17)
+     - Winning Candidate : LOKAM NAGA MADHAVI, Total Votes: 109915, Margin: 39829, Status: 18/18
+   - Constituency : Visakhapatnam South(22)
+     - Winning Candidate : CH.VAMSI KRISHNA SRINIVAS, Total Votes: 97868, Margin: 64594, Status: 17/17
+-- Yuvajana Sramika Rythu Congress Party - YSRCP
+  - Seats Won: 11, Seat leading: 0, Total Seats: 11 
+  -- Constituency Breakdown: --
+   - Constituency : Araku Valley (28)
+     - Winning Candidate : REGAM MATYALINGAM, Total Votes: 65658, Margin: 31877, Status: 23/23
+   - Constituency : Paderu (29)
+     - Winning Candidate : MATSYARASA VISWESWARA RAJU, Total Votes: 68170, Margin: 19338, Status: 23/23
+   - Constituency : Yerragondapalem (SC)(102)
+     - Winning Candidate : CHANDRA SEKHAR TATIPARTHI, Total Votes: 91741, Margin: 5200, Status: 19/19
+-- Bharatiya Janata Party - BJP
+  - Seats Won: 8, Seat leading: 0, Total Seats: 8 
+  -- Constituency Breakdown: --
+   - Constituency : Etcherla(7)
+     - Winning Candidate : ESWARA RAO NADUKUDITI, Total Votes: 112770, Margin: 29089, Status: 23/23
+   - Constituency : Visakhapatnam North(23)
+     - Winning Candidate : VISHNU KUMAR RAJU PENMETSA, Total Votes: 108801, Margin: 47534, Status: 21/21
+   - Constituency : Anaparthy(40)
+     - Winning Candidate : RAMAKRISHNA REDDY NALLAMILLI, Total Votes: 105720, Margin: 20850, Status: 17/17
+**Overall Results for Odisha: **
+- Total Assembly Constituencies: 147
+*Party wise Results: *
+-- Bharatiya Janata Party - BJP
+  - Seats Won: 78, Seat leading: 0, Total Seats: 78 
+  -- Constituency Breakdown: --
+   - Constituency : Bijepur(2)
+     - Winning Candidate : SANAT KUMAR GARTIA, Total Votes: 93161, Margin: 10066, Status: 22/22
+   - Constituency : Bargarh(3)
+     - Winning Candidate : ASHWINI KUMAR SARANGI, Total Votes: 77766, Margin: 4772, Status: 17/17
+   - Constituency : Attabira(4)
+     - Winning Candidate : NIHAR RANJAN MAHANAND, Total Votes: 99487, Margin: 28910, Status: 19/19
+-- Biju Janata Dal - BJD
+  - Seats Won: 51, Seat leading: 0, Total Seats: 51 
+  -- Constituency Breakdown: --
+   - Constituency : Padampur(1)
+     - Winning Candidate : BARSHA SINGH BARIHA, Total Votes: 91995, Margin: 10993, Status: 25/25
+   - Constituency : Sundargarh(9)
+     - Winning Candidate : JOGESH KUMAR SINGH, Total Votes: 86398, Margin: 9122, Status: 22/22
+   - Constituency : Biramitrapur(10)
+     - Winning Candidate : ROHIT JOSEPH TIRKEY, Total Votes: 84116, Margin: 6884, Status: 22/22
+-- Indian National Congress - INC
+  - Seats Won: 14, Seat leading: 0, Total Seats: 14 
+  -- Constituency Breakdown: --
+   - Constituency : Rajgangpur(13)
+     - Winning Candidate : C.S. RAAZEN EKKA, Total Votes: 66869, Margin: 10184, Status: 23/23
+   - Constituency : Basudevpur(45)
+     - Winning Candidate : ASHOK KUMAR DAS, Total Votes: 77843, Margin: 631, Status: 21/21
+   - Constituency : Bhawanipatna(80)
+     - Winning Candidate : SAGAR CHARAN DAS, Total Votes: 67085, Margin: 13741, Status: 21/21
+-- Communist Party of India (Marxist) - CPI(M)
+  - Seats Won: 1, Seat leading: 0, Total Seats: 1 
+  -- Constituency Breakdown: --
+   - Constituency : Bonai(14)
+     - Winning Candidate : LAXMAN MUNDA, Total Votes: 81008, Margin: 23439, Status: 23/23
+-- Independent - IND
+  - Seats Won: 3, Seat leading: 0, Total Seats: 3 
+  -- Constituency Breakdown: --
+   - Constituency : Dharmasala(51)
+     - Winning Candidate : HIMANSHU SEKHAR SAHOO F-LATE RAMESH CHANDRA SAHOO, Total Votes: 79759, Margin: 4150, Status: 22/22
+   - Constituency : Baramba(87)
+     - Winning Candidate : BIJAYA KUMAR DALABEHERA, Total Votes: 86018, Margin: 23479, Status: 22/22
+   - Constituency : Mahanga(95)
+     - Winning Candidate : SARADA PRASAD PADHAN, Total Votes: 88632, Margin: 7423, Status: 26/26
+** Overall Results for Bye Election: **
+ - Agiaon (195)(Bihar)
+  - Winner: SHIV PRAKASH RANJAN(Communist Party of India (Marxist-Leninist) (Liberation))
+ - Vijapur (26)(Gujarat)
+  - Winner: DR. C. J. CHAVDA(Bharatiya Janata Party)
+ - Porbandar (83)(Gujarat)
+  - Winner: ARJUN DEVABHAI MODHWADIA(Bharatiya Janata Party)
+ - Manavadar (85)(Gujarat)
+  - Winner: ARVINDBHAI JINABHAI LADANI(Bharatiya Janata Party)
+ - Khambhat (108)(Gujarat)
+  - Winner: CHIRAGKUMAR ARVINDBHAI PATEL(Bharatiya Janata Party)
+ - Vaghodia (136)(Gujarat)
+  - Winner: DHARMENDRASINH VAGHELA (BAPU)(Bharatiya Janata Party)
+ - KARNAL (21)(Haryana)
+  - Winner: NAYAB SINGH(Bharatiya Janata Party)
+ - DHARAMSHALA (18)(Himachal Pradesh)
+  - Winner: SUDHIR SHARMA(Bharatiya Janata Party)
+ - LAHAUL & SPITI (21)(Himachal Pradesh)
+  - Winner: ANURADHA RANA(Indian National Congress)
+ - SUJANPUR (37)(Himachal Pradesh)
+  - Winner: CAPTAIN RANJIT SINGH(Indian National Congress)
+ - BARSAR (39)(Himachal Pradesh)
+  - Winner: INDER DUTT LAKHANPAL(Bharatiya Janata Party)
+ - GAGRET (42)(Himachal Pradesh)
+  - Winner: RAKESH KALIA(Indian National Congress)
+ - KUTLEHAR (45)(Himachal Pradesh)
+  - Winner: VIVEK SHARMA (VICKU)(Indian National Congress)
+ - Gandey (31)(Jharkhand)
+  - Winner: KALPANA MURMU SOREN(Jharkhand Mukti Morcha)
+ - Shorapur (36)(Karnataka)
+  - Winner: RAJA VENUGOPAL NAIK(Indian National Congress)
+ - BAGIDORA (165)(Rajasthan)
+  - Winner: JAIKRISHN PATEL(Bharat Adivasi Party)
+ - Vilavancode (233)(Tamil Nadu)
+  - Winner: THARAHAI CUTHBERT(Indian National Congress)
+ - Secunderabad Cantt (71)(Telangana)
+  - Winner: SRIGANESH(Indian National Congress)
+ - Ramnagar (7)(Tripura)
+  - Winner: DIPAK MAJUMDER(Bharatiya Janata Party)
+ - Dadraul (136)(Uttar Pradesh)
+  - Winner: ARVIND KUMAR SINGH(Bharatiya Janata Party)
+ - Lucknow East (173)(Uttar Pradesh)
+  - Winner: O. P. SRIVASTAVA(Bharatiya Janata Party)
+ - Gainsari (292)(Uttar Pradesh)
+  - Winner: RAKESH KUMAR YADAV(Samajwadi Party)
+ - Duddhi (403)(Uttar Pradesh)
+  - Winner: VIJAY SINGH(Samajwadi Party)
+ - Bhagabangola (62)(West Bengal)
+  - Winner: REYAT HOSSAIN SARKAR(All India Trinamool Congress)
+ - Baranagar (113)(West Bengal)
+  - Winner: SAYANTIKA BANERJEE(All India Trinamool Congress)
